@@ -1,0 +1,14 @@
+/home/ionjpg/proyectos#/holaMundo/holaMundo/bin/Debug/net8.0/holaMundo
+/home/ionjpg/proyectos#/holaMundo/holaMundo/bin/Debug/net8.0/holaMundo.deps.json
+/home/ionjpg/proyectos#/holaMundo/holaMundo/bin/Debug/net8.0/holaMundo.runtimeconfig.json
+/home/ionjpg/proyectos#/holaMundo/holaMundo/bin/Debug/net8.0/holaMundo.dll
+/home/ionjpg/proyectos#/holaMundo/holaMundo/bin/Debug/net8.0/holaMundo.pdb
+/home/ionjpg/proyectos#/holaMundo/holaMundo/obj/Debug/net8.0/holaMundo.GeneratedMSBuildEditorConfig.editorconfig
+/home/ionjpg/proyectos#/holaMundo/holaMundo/obj/Debug/net8.0/holaMundo.AssemblyInfoInputs.cache
+/home/ionjpg/proyectos#/holaMundo/holaMundo/obj/Debug/net8.0/holaMundo.AssemblyInfo.cs
+/home/ionjpg/proyectos#/holaMundo/holaMundo/obj/Debug/net8.0/holaMundo.csproj.CoreCompileInputs.cache
+/home/ionjpg/proyectos#/holaMundo/holaMundo/obj/Debug/net8.0/holaMundo.dll
+/home/ionjpg/proyectos#/holaMundo/holaMundo/obj/Debug/net8.0/refint/holaMundo.dll
+/home/ionjpg/proyectos#/holaMundo/holaMundo/obj/Debug/net8.0/holaMundo.pdb
+/home/ionjpg/proyectos#/holaMundo/holaMundo/obj/Debug/net8.0/holaMundo.genruntimeconfig.cache
+/home/ionjpg/proyectos#/holaMundo/holaMundo/obj/Debug/net8.0/ref/holaMundo.dll
